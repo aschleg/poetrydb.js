@@ -1,0 +1,17 @@
+{
+  "name": "poet.js",
+  "version": "1.0.0",
+  "description": "PoetryDB API Javascript Wrapper",
+  "repository": {},
+  "author": "Aaron Schlegel",
+  "license": "GPL-2",
+  "keywords": [
+    "poetry",
+    "PoetryDB"
+  ],
+  "main": "dist/main.js",
+  "browser": "dist/poetrydb.js",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
