@@ -12,7 +12,7 @@
   "main": "dist/main.js",
   "browser": "dist/poetrydb.js",
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "@types/jest": "^24.0.18",
